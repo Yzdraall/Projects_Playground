@@ -1,0 +1,6 @@
+# Ne pas envoyer les fichiers compilés par Python
+__pycache__/
+*.pyc
+
+# Ne pas envoyer les données de calcul temporaires
+dataset_cache.pkl
